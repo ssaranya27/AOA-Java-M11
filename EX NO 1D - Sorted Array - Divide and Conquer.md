@@ -18,7 +18,7 @@ The overall run time complexity should be O(log (m+n)).
 ## Program:
 ```
 /*
-Developed by: Mohamed Saranya S.
+Developed by: Saranya S.
 Register Number:  212223220101
 */
 
